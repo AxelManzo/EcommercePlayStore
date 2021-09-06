@@ -1,0 +1,148 @@
+[
+    {
+        "id":1,
+        "tipo": "Placa de Video", 
+        "marca":"GeForce", 
+        "fabricante":"ASUS",
+        "nombre":"GT 1030 2GB GDDR5", 
+        "precio": 15000,
+        "img":"img/placasDeVideo/ASUS_GeForce_GT_1030_2GB_GDDR5.jpg"
+    },
+    {
+        "id":2,
+        "tipo": "Placa de Video", 
+        "marca":"GeForce", 
+        "fabricante": "MSI",
+        "nombre":"GTX 1050 Ti", 
+        "precio": 66000,
+        "img":"img/placasDeVideo/GeForce_MSI_GTX_1050_Ti_4GB_GDDR5.jpg"
+    },
+    {
+        "id":3,
+        "tipo": "Placa de Video", 
+        "marca":"GeForce", 
+        "fabricante": "MSI",
+        "nombre":"GTX 1650 4GB GDDR6", 
+        "precio": 76900,
+        "img":"img/placasDeVideo/MSI_GeForce_GTX_1650_4GB_GDDR6.jpg"
+    },
+    {
+        "id":4,
+        "tipo": "Placa de Video", 
+        "marca":"GeForce", 
+        "fabricante": "ASUS",
+        "nombre":"GTX 1660 6GB GDDR6", 
+        "precio": 105000,
+        "img":"img/placasDeVideo/ASUS_GeForce_GTX1660_6GB_GDDR6.jpg"
+    },
+    {
+        "id":5,
+        "tipo": "Placa de Video", 
+        "marca":"GeForce", 
+        "fabricante": "Zotac",
+        "nombre":"RTX 2060 6GB GDDR6", 
+        "precio": 141500,
+        "img":"img/placasDeVideo/Zotac_GeForce_RTX_2060_6GB_GDDR6.jpg"
+    },
+    {
+        "id":6,
+        "tipo": "Placa de Video", 
+        "marca":"GeForce", 
+        "fabricante": "Zotac",
+        "nombre":"RTX 3060 12GB GDDR6", 
+        "precio": 185000,
+        "img":"img/placasDeVideo/Zotac_RTX 3060_12GB_GDDR6.jpg"
+    },
+    {
+        "id":7,
+        "tipo": "Placa de Video", 
+        "marca":"GeForce", 
+        "fabricante": "PNY",
+        "nombre":"RTX 3070 8GB GDDR6", 
+        "precio": 370000,
+        "img":"img/placasDeVideo/PNY_GeForce_RTX_3070_8GB_GDDR6.jpg"
+    },
+    {
+        "id":8,
+        "tipo": "Placa de Video", 
+        "marca":"GeForce", 
+        "fabricante": "MSI",
+        "nombre":"RTX 3080 10GB GDDR6", 
+        "precio": 505000,
+        "img":"img/placasDeVideo/MSI_GeForce_RTX 3080_10GB_GDDR6.jpg"
+    },
+    {
+        "id":9,
+        "tipo": "Placa de Video", 
+        "marca": "Radeon AMD", 
+        "fabricante": "XFX",
+        "nombre":"RX 550 4GB DDR5", 
+        "precio": 46500,
+        "img": "img/placasDeVideo/XFX_Radeon_RX_550_4GB_DDR5.jpg"
+    },
+    {
+        "id":10,
+        "tipo": "Placa de Video", 
+        "marca": "Radeon AMD", 
+        "fabricante": "MSI",
+        "nombre": "RX 5500 XT 4GB GDDR6", 
+        "precio": 66500,
+        "img": "img/placasDeVideo/MSI_Radeon_RX_5500_XT_4GB_GDDR6.jpg"
+    },
+    {
+        "id":11,
+        "tipo": "Placa de Video", 
+        "marca": "Radeon AMD", 
+        "fabricante": "ASUS",
+        "nombre":  "RX 570 8GB GDDR5",
+        "precio": 90500,
+        "img": "img/placasDeVideo/ASUS_Radeon_RX_570_8GB_GDDR5.jpg"
+    },    
+    {
+        "id":12,
+        "tipo": "Placa de Video", 
+        "marca": "Radeon AMD", 
+        "fabricante": "Asrock",
+        "nombre": "RX 580 8GB OC",
+        "precio":  115500, 
+        "img": "img/placasDeVideo/Asrock_Radeon_RX_580_8GB_OC.jpg"
+    }, 
+    {
+        "id":13,
+        "tipo": "Placa de Video", 
+        "marca": "Radeon AMD", 
+        "fabricante": "Asrock",
+        "nombre": "RX 5600 XT 6GB GDDR6",
+        "precio": 155000,
+        "img": "img/placasDeVideo/Asrock_Radeon_RX_5600_XT_6GB_GDDR6.jpg"
+    },    
+    {
+        "id":14,
+        "tipo": "Placa de Video", 
+        "marca": "Radeon AMD", 
+        "fabricante": "XFX",
+        "nombre": "RX 6700 XT 12GB GDDR6",
+        "precio": 193000,
+        "img": "img/placasDeVideo/XFX_Radeon_RX_6700_XT_BLACK_12GB_GDDR6.jpg"
+    },      
+    {
+        "id":15,
+        "tipo": "Placa de Video", 
+        "marca": "Radeon AMD", 
+        "fabricante": "ASUS",
+        "nombre": "RX 6800 16GB GDDR6 OC",
+        "precio": 345000,
+        "img": "img/placasDeVideo/ASUS_Radeon_RX_6800_XT_16GB_GDDR6.jpg"
+    },      
+    {
+        "id":16,
+        "tipo": "Placa de Video", 
+        "marca": "Radeon AMD", 
+        "fabricante": "MSI",
+        "nombre": "RX 6900 XT 16GB GDDR6", 
+        "precio": 340000,
+        "img": "img/placasDeVideo/MSI_Radeon_RX_6900_XT_16GB_GDDR6.jpg"
+    }      
+
+]
+  
