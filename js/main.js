@@ -141,7 +141,7 @@ function renderizarCarrito() {
         let miNodo = document.createElement("li");
         miNodo.classList.add("list-group-item", "d-flex", "justify-content-between", "align-items-center");
         miNodo.id = item.id
-        miNodo.innerHTML = '<div class="mx-2"><img loading="lazy" class="rounded" src="' + item.img + '"width="70"></div>' + contar_producto(item) + ' x ' + item.nombre + ' X $' + item.precio;
+        miNodo.innerHTML = '<div class="mx-2"><img class="rounded" src="' + item.img + '"width="70"></div>' + contar_producto(item) + ' x ' + item.nombre + ' X $' + item.precio;
 
         // Boton de borrar
         let miBoton = document.createElement("button");
