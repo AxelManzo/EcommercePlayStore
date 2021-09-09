@@ -56,6 +56,17 @@ $("#btnCorreo").click(function () {
     });
 });
 
+// simula la compra y resetea el carrito
+$("#finalizarCompra").click(function (e) { 
+    e.preventDefault();
+    swal({
+        title: "Felicidades por tu compra en Play Store",
+        icon: "success",
+        button: "Ok",
+    });
+    vaciarCarrito();
+});
+
 //Dibuja todos los productos a partir de la "base de datos".
 function renderizarProductos() {
     productos.forEach((producto) => {
@@ -228,6 +239,8 @@ function sustainSelection() {
 
 // evento carrito
 DOMbotonVaciar.addEventListener("click", vaciarCarrito);
+
+
 
 // Inicio
 $(document).ready(function () {
