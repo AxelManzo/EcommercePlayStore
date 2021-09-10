@@ -60,7 +60,7 @@ $("#btnCorreo").click(function () {
 $("#finalizarCompra").click(function (e) { 
     e.preventDefault();
     swal({
-        title: "Felicidades por tu compra en Play Store",
+        title: "Felicidades por tu compra en Play Store. A gastado $" + total,
         icon: "success",
         button: "Ok",
     });
